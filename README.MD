@@ -20,4 +20,3 @@ A Netflix-inspired movie streaming app built with React Native, Expo, and Tailwi
 - External Movie API
 
 ## Screenshots
-
